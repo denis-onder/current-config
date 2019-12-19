@@ -1,0 +1,45 @@
+
+  "rust.mode": "rls",
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontSize": 26,
+  "editor.tabSize": 2,
+  "window.menuBarVisibility": "hidden",
+  "workbench.sideBar.location": "right",
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "projectManager.git.baseFolders": [
+    "/home/denisonder/code",
+    "/home/denisonder/go/src/github.com/denis-onder"
+  ],
+  "workbench.startupEditor": "newUntitledFile",
+  "clock.alignment": "Right",
+  "clock.format": "HH:MM",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "python.jediEnabled": false,
+  "pomodoro.autoStart": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "workbench.colorTheme": "Cobalt2",
+  "editor.fontFamily": "'Fira Code', monospace",
+  "terminal.integrated.fontSize": 16,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "rust.rustup": {
+    "toolchain": "stable-x86_64-unknown-linux-gnu",
+    "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
+  },
+  "rust.rls": {
+    "useRustfmt": true
+  },
+  "editor.fontLigatures": true
+}
